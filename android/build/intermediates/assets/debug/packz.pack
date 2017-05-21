@@ -1,0 +1,194 @@
+
+packz.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+chunky_metallic_font
+  rotate: false
+  xy: 1, 860
+  size: 1464, 146
+  orig: 1464, 146
+  offset: 0, 0
+  index: -1
+Illuminati
+  rotate: false
+  xy: 1, 346
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+Block Font
+  rotate: false
+  xy: 1467, 878
+  size: 576, 128
+  orig: 576, 128
+  offset: 0, 0
+  index: -1
+jeromBD-metal-CCBY3
+  rotate: false
+  xy: 1, 56
+  size: 256, 288
+  orig: 256, 288
+  offset: 0, 0
+  index: -1
+whitewin
+  rotate: false
+  xy: 515, 773
+  size: 441, 85
+  orig: 441, 85
+  offset: 0, 0
+  index: -1
+256225bd000e25b21ad02cb5f85ce2e88d8f23
+  rotate: false
+  xy: 515, 514
+  size: 256, 257
+  orig: 256, 257
+  offset: 0, 0
+  index: -1
+blackwin
+  rotate: false
+  xy: 958, 773
+  size: 425, 85
+  orig: 425, 85
+  offset: 0, 0
+  index: -1
+cancel-256
+  rotate: false
+  xy: 773, 515
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+iconmonstr-handshake-9-icon-256
+  rotate: false
+  xy: 1031, 515
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+info-256
+  rotate: false
+  xy: 259, 88
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+led16
+  rotate: false
+  xy: 515, 358
+  size: 286, 154
+  orig: 286, 154
+  offset: 0, 0
+  index: -1
+credits
+  rotate: false
+  xy: 803, 384
+  size: 378, 129
+  orig: 378, 129
+  offset: 0, 0
+  index: -1
+plainicon.com-39437-256px
+  rotate: false
+  xy: 517, 100
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+gomokuTitle
+  rotate: false
+  xy: 803, 294
+  size: 370, 88
+  orig: 370, 88
+  offset: 0, 0
+  index: -1
+aiga_mail-256
+  rotate: false
+  xy: 775, 99
+  size: 256, 193
+  orig: 256, 193
+  offset: 0, 0
+  index: -1
+aiWhiteDifficulty
+  rotate: false
+  xy: 1467, 826
+  size: 337, 50
+  orig: 337, 50
+  offset: 0, 0
+  index: -1
+black
+  rotate: false
+  xy: 1033, 92
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+board-game-playing-sitting (1)
+  rotate: false
+  xy: 1289, 557
+  size: 214, 214
+  orig: 214, 214
+  offset: 0, 0
+  index: -1
+difficulty
+  rotate: false
+  xy: 1385, 773
+  size: 277, 51
+  orig: 277, 51
+  offset: 0, 0
+  index: -1
+blackVictory
+  rotate: false
+  xy: 1505, 571
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+aiBlackDifficulty
+  rotate: false
+  xy: 1, 4
+  size: 335, 50
+  orig: 335, 50
+  offset: 0, 0
+  index: -1
+Draw
+  rotate: false
+  xy: 1806, 791
+  size: 221, 85
+  orig: 221, 85
+  offset: 0, 0
+  index: -1
+board
+  rotate: false
+  xy: 1707, 589
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+boardSize
+  rotate: false
+  xy: 517, 54
+  size: 246, 44
+  orig: 246, 44
+  offset: 0, 0
+  index: -1
+aithinking
+  rotate: false
+  xy: 765, 1
+  size: 263, 96
+  orig: 263, 96
+  offset: 0, 0
+  index: -1
+white
+  rotate: false
+  xy: 1289, 355
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+whiteVictory
+  rotate: false
+  xy: 1235, 153
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1

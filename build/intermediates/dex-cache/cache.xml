@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Gomoku\core\build\libs\core-1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f248e6d65e90acc030b2db3f7192606e44652ae6">
+        <dex dex="D:\Gomoku\android\build\intermediates\pre-dexed\debug\core-1.0_adc1b257e206e4076b991361a4ebec8cf77a629f.jar" />
+    </item>
+
+</items>
